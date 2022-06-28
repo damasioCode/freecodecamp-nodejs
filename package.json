@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Daniel Damasio",
 	"description": "FreeCodeCamp NodeJS",
-	"keywords": ["study", "nodejs", "backend"],
+	"keywords": ["study", "nodejs", "backend", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
