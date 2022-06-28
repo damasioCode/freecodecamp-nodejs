@@ -3,6 +3,7 @@
 	"author": "Daniel Damasio",
 	"description": "FreeCodeCamp NodeJS",
 	"keywords": ["study", "nodejs", "backend", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
