@@ -1,1 +1,1 @@
-console.log("An error happened");
+console.log("Hello World");
