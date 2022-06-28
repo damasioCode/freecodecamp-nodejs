@@ -6,6 +6,7 @@
 	"keywords": ["study", "nodejs", "backend", "freecodecamp"],
 	"license": "MIT",
 	"dependencies": {
+		"moment": "2.14.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
