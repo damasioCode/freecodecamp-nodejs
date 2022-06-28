@@ -5,9 +5,9 @@
 	"description": "FreeCodeCamp NodeJS",
 	"keywords": ["study", "nodejs", "backend", "freecodecamp"],
 	"license": "MIT",
-	
+
 	"dependencies": {
-		"moment": "~2.10.2",
+		"moment": "^2.10.2",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
